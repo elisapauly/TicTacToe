@@ -55,7 +55,7 @@ public class TicTacToe {
                 if (j < 2) System.out.print(" |");
             }
             System.out.println();
-            if (i < 2) System.out.println("   -----------");
+            if (i < 2) System.out.println("   --+---+--");
         }
     }
 
