@@ -1,3 +1,5 @@
+//codigo feito a partir da logica que o professor passou.
+
 import java.util.Scanner;
 
 public class JogoDaVelha {

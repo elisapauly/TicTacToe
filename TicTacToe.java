@@ -1,3 +1,5 @@
+//codigo feito com pesquisas em vídeo e chatgpt. 
+
 import java.util.Scanner;
 
 public class TicTacToe {
